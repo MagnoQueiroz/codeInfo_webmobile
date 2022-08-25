@@ -9,7 +9,7 @@
     <span>
         https://synxther.github.io/codeInfo_webmobile/
     </span>
- <h3>Entre com a ferramenta devtools no modo mobile para poder ter uma melhor experiencia</h3>
+ <h3>Entre com a ferramenta devtools no modo mobile para poder ter uma melhor experiencia:</h3>
 
 </div>
  <pr>ctrl+shift+i ou F12 para entrar do devtools</p>
