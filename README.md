@@ -12,8 +12,11 @@
  <h3>Entre com a ferramenta devtools no modo mobile para poder ter uma melhor experiencia:</h3>
 
 </div>
- <pr>ctrl+shift+i ou F12 para entrar do devtools</p>
+ <p style="text-align:center ;">ctrl+shift+i ou F12 para entrar do devtools</p>
  <br>
+
+ <p style="text-align:center;">no modo Device</p>
+
   <p>prossiga para o device emulation "ctrl+shift+M"</p>
  <img src="./readimages/1.png">
 
