@@ -15,9 +15,9 @@
  <p style="text-align:center ;">ctrl+shift+i ou F12 para entrar do devtools</p>
  <br>
 
- <p style="text-align:center;">no modo Device</p>
+ <p>no modo Device</p>
 
-  <p>prossiga para o device emulation "ctrl+shift+M"</p>
+  <p style="text-align:center;"> prossiga para o device emulation "ctrl+shift+M"</p>
  <img src="./readimages/1.png">
 
 
