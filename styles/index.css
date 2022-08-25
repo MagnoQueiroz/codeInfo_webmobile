@@ -92,6 +92,7 @@ body {
 .logo {
   font: 700 1.31rem "Poppins", sans-serif;
   color: var(--title-color);
+  display: flex;
 }
 
 .logo span {
