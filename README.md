@@ -2,9 +2,8 @@
 <h2>Entre com a ferramenta devtools no modo mobile para poder ter uma melhor experiencia</h2>
  <strong>ctrl+shift+i ou F12</strong>
  <img src="./readimages/1.png">
- <p>prossiga para o device emulation "ctrl+shift+M</p>
+ <p>prossiga para o device emulation "ctrl+shift+M"</p>
 
-<br>
 <div>
     <span target="_blank">
         https://code-info-webmobile-5c0jzg0jg-felipehmagnop-gmailcom.vercel.app/
