@@ -22,4 +22,4 @@
  <img src="./readimages/1.png">
 ---
 # Dispositivos desktop
-<img src="./readimages/2.png
+<img src="./readimages/2.png">
