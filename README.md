@@ -1,7 +1,7 @@
 # codeInfo web mobile
 <div>
     <span target="_blank">
-        https://code-info-webmobile-5c0jzg0jg-felipehmagnop-gmailcom.vercel.app/
+        https://code-info-webmobile.vercel.app
     </span>
     <br>
     <span>outra opção:</span>
