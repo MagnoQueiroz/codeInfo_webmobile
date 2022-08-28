@@ -18,10 +18,11 @@
  <p>no modo Device</p>
 
   <p style="text-align:center;"> prossiga para o device emulation "ctrl+shift+M"</p>
-  # dispositivos Mobile
+  
+ # Dispositivo Mobile
  <img src="./readimages/1.png">
  
 ---
 
-# Dispositivos Desktop
+# Dispositivo Desktop
 <img src="./readimages/2.png">
